@@ -11,6 +11,6 @@ This is an arcade frogger game and is a part of Front-Web Developer Nano Degree 
 Rules-- Use the arrow keys to cross the road . Our purpose is to avoid the bugs and reach the water . Doing this will give you +1 point . Make 5 points to win the game.
 
 ### HOW TO START
-*Clich on this [Link] (https://vaibhav1671998.github.io/Udacity-Arcade-Game/.) to get started .
+*Clich on this [Link](https://vaibhav1671998.github.io/Udacity-Arcade-Game/.) to get started .
 
 ## HOPE YOU ENJOY IT.
